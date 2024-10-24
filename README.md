@@ -245,7 +245,7 @@ logger.info({
 **Importante!**
 Este é um guia básico. Sempre mantenha-se atualizado sobre novas vulnerabilidades e boas práticas!
 
-*Feito com ♥️ para a comunidade dev*
+*Para a comunidade dev*
 
 </div>
 
